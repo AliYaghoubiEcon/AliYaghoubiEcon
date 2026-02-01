@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm Ali 👋
 
-<!--
-**AliYaghoubiEcon/AliYaghoubiEcon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an MSc student in Economics at the Tehran Institute for Advanced Studies (TeIAS).
 
-Here are some ideas to get you started:
+### Research Interests
+- Development Economics
+- Education Economics
+- Labor Economics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Methods & Tools
+- R, Python, Stata
+- Causal inference (DiD, event study)
+- Data cleaning and PDF digitization
+
+### Master's Thesis
+Internet Access and Academic Performance:  
+Evidence from Rural Students in the University Entrance Examination
